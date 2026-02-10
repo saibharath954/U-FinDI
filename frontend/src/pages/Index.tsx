@@ -91,7 +91,7 @@ const Index = () => {
             <motion.div variants={fadeUp} custom={0} className="mb-6">
               <span className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-primary/30 bg-primary/10 text-primary text-xs font-medium">
                 <span className="h-1.5 w-1.5 rounded-full bg-primary animate-pulse-glow" />
-                Hackathon Final Round — Live Demo
+                Universal Financial Document Intelligence
               </span>
             </motion.div>
 
@@ -109,7 +109,6 @@ const Index = () => {
               custom={2}
               className="text-lg text-muted-foreground max-w-2xl mx-auto mb-8 leading-relaxed"
             >
-              Rule-based OCR breaks on every new layout, poor scan, and inconsistent format. 
               U-FinDI is a self-learning AI system that ingests any financial document and converts it 
               into a validated knowledge object trusted for lending, underwriting, and compliance.
             </motion.p>
